@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @l-k-sfr-jt
-- 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning React.js, css animations
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Lukas
+- 🏡 Living in Prague, 🇨🇿
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently working in SAP Concur
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lukas-frajt/)
 
 <!---
 l-k-sfr-jt/l-k-sfr-jt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
