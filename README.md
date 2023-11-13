@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lukas
 - 🏡 Living in Prague, 🇨🇿
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently working in SAP Concur
+- 🌱 I work at SAP Concur
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lukas-frajt/)
 
 <!---
